@@ -15,14 +15,20 @@ p {
 	width: 50%;
 }
 
-#name, #studies {
+#name {
 	display: block;
 	margin: 0 auto;
 	width: 50%;
 }
 
+#studies {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+}
+
 .studies {
 	display: block;
 	margin: 0 auto;
-	width: 50%;
+	width: 100%;
 }
