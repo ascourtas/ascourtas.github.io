@@ -1,12 +1,13 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #add8e6;
  }
 
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #DE0000;
+    color: white;
 }
 
 .name {
@@ -31,4 +32,5 @@ p {
 	display: block;
 	margin: 0 auto;
 	width: 75%;
+	background-color: #3ca1c3;
 }
