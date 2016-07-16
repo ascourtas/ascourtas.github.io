@@ -12,17 +12,17 @@ p {
 .name {
 	display: block;
 	margin: 0 auto;
-	width: 800px;
+	width: 50%;
 }
 
-/*#name, #studies {
+#name, #studies {
 	display: block;
 	margin: 0 auto;
 	width: 50%;
-}*/
+}
 
 .studies {
 	display: block;
 	margin: 0 auto;
-	width: 75%;
+	width: 50%;
 }
