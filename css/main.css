@@ -76,11 +76,13 @@ p {
 .bio {
 	text-align: left;
 	font-size: 18px;
+	padding-top: 50px;
 	color: white;
 }
 
 .resume {
 	text-align: right;
 	font-size: 18px;
+	padding-top: 50px;
 	color: white;
 }
