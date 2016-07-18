@@ -8,12 +8,12 @@ p {
 
 h1 {
 	color: white;
-	font: Helvetica;
+	font-family: Helvetica;
 }
 
 h2 {
 	color: #d8ecf3;
-	font: Helvetica;
+	font-family: Helvetica;
 }
 
 li {
