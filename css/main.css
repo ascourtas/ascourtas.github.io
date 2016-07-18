@@ -5,7 +5,7 @@ body {
  }
 
 p {
-    font-size: 1.5em;
+    font-size: 18px;
     line-height: 1.4em;
     color: white;
     padding: 0;
@@ -15,13 +15,16 @@ p {
 .name {
 	display: block;
 	margin: 0 auto;
-	width: 50%;
+	width: 25%;
+	background-color: white;
 }
 
 #name {
 	display: block;
+	font-size: 30px;
+	color: #30819c;
 	margin: 0 auto;
-	width: 50%;
+	width: 25%;
 }
 
 #studies {
