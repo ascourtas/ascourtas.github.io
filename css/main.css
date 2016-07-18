@@ -78,12 +78,14 @@ p {
 	display: inline-block;
 	font-size: 18px;
 	padding-top: 50px;
+	padding-left: 300px;
 	color: white;
 }
 
 .resume {
 	text-align: right;
 	display: inline-block;
+	padding-right: 300px;
 	font-size: 18px;
 	padding-top: 50px;
 	color: white;
