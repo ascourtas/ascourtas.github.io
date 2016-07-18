@@ -37,14 +37,23 @@ p {
 }
 
 #cs {
+	display: block;
+	margin: 0 auto;
+	width: 75%;
 	background-color: #3ca1c3;	
 }
 
 #biopsych {
+	display: block;
+	margin: 0 auto;
+	width: 75%;
 	background-color: #3691b0;	
 }
 
 #premed {
+	display: block;
+	margin: 0 auto;
+	width: 75%;
 	background-color: #30819c;	
 }
 
