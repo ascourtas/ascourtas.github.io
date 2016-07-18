@@ -72,3 +72,15 @@ p {
 	width: 350px;
 	height: 250px;
 }
+
+.bio {
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+
+.resume {
+	text-align: right;
+	font-size: 18px;
+	color: white;
+}
