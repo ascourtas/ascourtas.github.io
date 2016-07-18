@@ -75,6 +75,7 @@ p {
 
 .bio {
 	text-align: left;
+	display: inline-block;
 	font-size: 18px;
 	padding-top: 50px;
 	color: white;
@@ -82,6 +83,7 @@ p {
 
 .resume {
 	text-align: right;
+	display: inline-block;
 	font-size: 18px;
 	padding-top: 50px;
 	color: white;
