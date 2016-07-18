@@ -1,5 +1,5 @@
 body {
-	background-color: #63b4cf;
+	background-color: #4fabc9;
 }
 
 p {
@@ -8,10 +8,12 @@ p {
 
 h1 {
 	color: white;
+	font: Helvetica;
 }
 
 h2 {
 	color: #d8ecf3;
+	font: Helvetica;
 }
 
 li {
