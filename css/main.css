@@ -34,3 +34,10 @@ p {
 	width: 75%;
 	background-color: #3ca1c3;
 }
+
+.profile_photo {
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: 250px;
+}
