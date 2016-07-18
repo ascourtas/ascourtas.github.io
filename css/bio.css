@@ -1,0 +1,19 @@
+body {
+	background-color: #4fabc9;
+	margin: 60px auto;
+    width: 70%;
+}
+
+p {
+	text-align: justify;
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+}
+
+#fun_photo {
+	display: block;
+	margin: 0 auto;
+	width: 350px;
+	height: 425px;
+}
